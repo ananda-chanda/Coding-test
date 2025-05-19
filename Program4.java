@@ -1,4 +1,3 @@
-// File name: Program4.java
 
 import java.util.*;
 
@@ -32,7 +31,7 @@ public class Program4 {
             }
         }
 
-        // Print with ':' instead of '='
+        
         System.out.print("{");
         int count = 0;
         for (Map.Entry<Integer, Integer> entry : multiplesCount.entrySet()) {
